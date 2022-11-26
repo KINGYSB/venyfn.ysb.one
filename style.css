@@ -41,7 +41,7 @@ body{
 }
 .link{
     display: block;
-    background: linear-gradient(to bottom, #fff951 25%, #fc28a8);
+    background: linear-gradient(to bottom, #00FBAB 25%, #BE75E7);
     color: var(--bgColor);
     font-family: var(--font);
     text-align: center;
