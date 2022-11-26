@@ -1,9 +1,9 @@
 /* Style Settings */
-@import url('https://fonts.googleapis.com/css?family=Teko&display=swap');
+@import url('/fonts/Bloodseeker.ttf');
 :root {
     --bgColor: #00DE97;
     --accentColor: #BD75E7;
-    --font: 'Teko', sans-serif;
+    --font: 'Bloodseeker', sans-serif;
     --shaddow: 0 0 2px #00B57C, 0 0 5px #00573B, 0 0 10px #fff3;
 }
 
