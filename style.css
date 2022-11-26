@@ -1,8 +1,8 @@
 /* Style Settings */
 @import url('https://fonts.googleapis.com/css?family=Teko&display=swap');
 :root {
-    --bgColor: rgb(38, 35, 53);
-    --accentColor: rgb(249, 42, 173);
+    --bgColor: #00DE97;
+    --accentColor: #BD75E7;
     --font: 'Teko', sans-serif;
     --shaddow: 0 0 2px #100c0f, 0 0 5px #dc078e33, 0 0 10px #fff3;
 }
